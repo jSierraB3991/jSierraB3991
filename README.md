@@ -7,7 +7,7 @@ README MADE: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🔭 I’m currently working on [Zabud](https://www.zabud.com.co/)
 
-- 🌱 I’m currently learning **Bash and Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **Judas3991@gmail.com**
 

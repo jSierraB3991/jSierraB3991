@@ -5,7 +5,7 @@ README MADE: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsierrab3991" alt="jsierrab3991" /></a> </p>
 
-- 🔭 I’m currently working on [Zabud](https://www.zabud.com.co/)
+<!-- - 🔭 I’m currently working on [Zabud](https://www.zabud.com.co/) -->
 - :smoking: Secon profile [Gitlab](https://gitlab.com/eliotandelon)
 
 - 📫 How to reach me **Judas3991@gmail.com**
